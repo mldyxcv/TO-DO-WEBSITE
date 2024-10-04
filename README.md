@@ -1,2 +1,3 @@
 # TO-DO-WEBSITE
-![Screenshot 2024-10-04 234156](https://github.com/user-attachments/assets/9765e1fc-3da7-4f02-891a-4ad3bb7b206b)
+![Screenshot 2024-10-05 002358](https://github.com/user-attachments/assets/862e7691-6f85-4f41-9e46-1f04e08ea18b)
+
