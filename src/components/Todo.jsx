@@ -104,7 +104,7 @@ const Todo = () => {
       <div className='flex flex-col items-center ml-5'>
         <Timer />
 
-        {/* Spotify Playlist */}
+        {/* Playlist */}
         <div className="spotify-playlist mt-5">
           <iframe
             src="https://open.spotify.com/embed/playlist/3cnkhyqinMpD5O6f6qh5l4"
